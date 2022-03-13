@@ -1,0 +1,212 @@
+body{
+  font-family: "Montserrat";
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track{
+  background-color: #FFF8;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #95CD41;
+}
+
+/* title section */
+h1{
+  font-family: "Montserrat Black";
+  font-size: 2.7rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Montserrat black";
+  font-size: 2rem;
+  color:#333;
+}
+
+h3{
+  font-size: 2.5rem;
+  text-decoration: none;
+}
+
+#title{
+  background-color: #fff;
+  color: #333;
+}
+
+h4{
+  font-family:  "Montserrat black";
+  line-height: 5;
+  margin: 0;
+}
+
+h5{
+  font-family: "Fredoka";
+  font-size: 1.1rem;
+}
+
+hr{
+  border: 1.5px solid #333;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "Fredoka";
+  font-size: 1.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.navbar-link{
+  font-family: "Fredoka", sans-serif;
+  font-size: 1.2rem;
+  color: #191919;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  color: #95CD41;
+}
+
+#navbarToggleDemo2{
+  text-align: center;
+}
+
+.title-image{
+  width: 80%;
+  border-radius: 100%;
+  margin-left: 67px;
+}
+
+.title-h1{
+  padding-top: 3rem;
+}
+
+.short-msg{
+  color: #656468;
+  line-height: 1.5;
+}
+
+.btn-title{
+  font-family: "Fredoka";
+  font-size: 20px;
+  border:none;
+  padding: 8px;
+  margin: 4px 2px;
+  text-align: center;
+  transition-duration: 0.4s;
+}
+
+.btn-talk{
+  background-color: #95CD41;
+  border: 3px solid #95CD41;
+  border-radius: 10px;
+}
+
+.btn-talk:hover{
+  background-color: #fff;
+}
+
+.btn-Portfolio{
+  background-color: #fff;
+  border: 3px solid #95CD41;
+  border-radius: 10px;
+}
+
+.btn-Portfolio:hover{
+  background-color: #95CD41;
+}
+
+.btn-link{
+  color: #333;
+  text-decoration: none;
+}
+
+.btn-link:hover{
+  color: #333;
+}
+
+
+/* about section */
+
+#about{
+  background-color:#FFE162;
+}
+
+.item-skill{
+  padding-bottom: 50px;
+}
+
+.work{
+  font-family: "Fredoka";
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/* portfolio section */
+
+#portfolio{
+  background-color: #fff;
+}
+
+.NA{
+  font-family: "Fredoka";
+  font-weight: lighter;
+  text-align: center;
+  padding: 10% 15%;
+}
+
+/* services sections */
+
+#service{
+  background-color: #FFE162;
+}
+
+/* contacts section */
+
+.contact{
+  text-align: center;
+  text-decoration: none;
+}
+
+.icon{
+  color: #333;
+}
+
+.contact-padding{
+  padding-top: 100px;
+}
+
+.contact-label{
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* arrow button */
+.arrow-up{
+  position: fixed;
+  margin-left: 75%;
+  margin-top: 30%;
+  font-size: 3rem;
+}
+
+.arrow-up-link{
+  color: #95CD41;
+  text-decoration: none;
+}
+
+.arrow-up-link:hover{
+  color: #357C3C;
+}
